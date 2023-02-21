@@ -1,23 +1,26 @@
-Read (Finished):
-	G/Acc Blackpaper
-	CCRU 1997-2003
-
-
+Read (Finished (Approximate Order)):
+	Xenofeminist Manifesto - Laboria Cuboniks
+	G/Acc Blackpaper - Nyx
+	(recur (recurrence)) - Nyx
+	CCRU 1997-2003 - CCRU
+	
 To Read (Not Started or Not Finished (Not In Any Order)):
-	Design Principles Behind Smalltalk (https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
-	Zeroes and Ones
-	A U/Acc Primer (https://xenogothic.com/2019/03/04/a-u-acc-primer/)
-	Human, All Too Human
-	Beyond Good and Evil
-	On The Genealogy of Morality 
-	The Gay Science
-	Thus Spoke Zarathustra
-	The Unique and Its Property
-	You Only Have the Courage to be Destructive
-	Wage Labor and Capital
-	Critique of the Gotha Program
-	A Critique of German Ideology
-	The Abolition of Work
-	Socialism: Utopian and Scientific
-	Fanged Noumena
-	The State and Revolution
+	On Straight Trannies - Nyx
+	Dear Larpers - Nyx
+	Design Principles Behind Smalltalk (https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) - Daniel Ingalls
+	Zeroes and Ones - Sadie Plant
+	A U/Acc Primer (https://xenogothic.com/2019/03/04/a-u-acc-primer/) - Matt Colquhoun
+	Human, All Too Human - Friedrich Nietzsche
+	Beyond Good and Evil - Friedrich Nietzsche
+	On The Genealogy of Morality - Friedrich Nietzsche
+	The Gay Science - Friedrich Nietzsche
+	Thus Spoke Zarathustra - Friedrich Nietzsche
+	The Unique and Its Property - Max Stirner
+	You Only Have the Courage to be Destructive - Max Stirner
+	Wage Labor and Capital - Karl Marx
+	Critique of the Gotha Program - Karl Marx
+	A Critique of German Ideology - Karl Marx
+	The Abolition of Work - Bob Black
+	Socialism: Utopian and Scientific - Friedrich Engels
+	Fanged Noumena - Nick Land
+	The State and Revolution - Vladimir Lenin
