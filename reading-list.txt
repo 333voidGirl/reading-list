@@ -3,9 +3,10 @@ Read (Finished):
 	CCRU 1997-2003
 
 
-To Read (Not Started or Not Finished):
+To Read (Not Started or Not Finished (Not In Any Order)):
+	Design Principles Behind Smalltalk (https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 	Zeroes and Ones
-	U/Acc Primer
+	A U/Acc Primer (https://xenogothic.com/2019/03/04/a-u-acc-primer/)
 	Human, All Too Human
 	Beyond Good and Evil
 	On The Genealogy of Morality 
