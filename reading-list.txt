@@ -13,7 +13,7 @@ To Read (Not Started or Not Finished (Not In Any Order)):
 	Design Principles Behind Smalltalk (https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) - Daniel Ingalls
 	Zeroes and Ones - Sadie Plant
 	A U/Acc Primer (https://xenogothic.com/2019/03/04/a-u-acc-primer/) - Matt Colquhoun
-	https://www.e-flux.com/journal/87/169402/notes-on-blacceleration/
+	Notes on Blacceleration (https://www.e-flux.com/journal/87/169402/notes-on-blacceleration/) - Aria Dean
 	https://www.urbanomic.com/book/accelerate/
 	Postcapitalist Desire - Mark Fisher
 	Human, All Too Human - Friedrich Nietzsche
