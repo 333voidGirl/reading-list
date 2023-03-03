@@ -1,4 +1,5 @@
 Read (Finished (Approximate Order)):
+	Hello From the Wired: An Introduction to Cyber-Nihilism - Nyx
 	Xenofeminist Manifesto - Laboria Cuboniks
 	G/Acc Blackpaper - Nyx
 	(recur (recurrence)) - Nyx
